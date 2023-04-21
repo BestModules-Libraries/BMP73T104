@@ -1,0 +1,63 @@
+##############################################
+# Coloring Map For （BMP73T104）
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BMP73T104	KEYWORD1	
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+begin	KEYWORD2
+
+setOCP	KEYWORD2
+clearOverCurrent	KEYWORD2
+dcMotorRun	KEYWORD2
+dcMotorStop	KEYWORD2
+dcMotorBrake	KEYWORD2
+getINT	KEYWORD2
+getDcMotorRank	KEYWORD2
+
+stepperMoveTo	KEYWORD2
+stepperMove	KEYWORD2	
+stepperRun	KEYWORD2
+stepperStop	KEYWORD2
+stepperRelease	KEYWORD2
+isRunning	KEYWORD2
+getStepperMaxSpeed	KEYWORD2
+getStepperSpeed	KEYWORD2
+getStepperAcceleration	KEYWORD2
+getStepperTargetPosition	KEYWORD2
+getStepperDistanceToGo	KEYWORD2
+getStepperPosition	KEYWORD2
+setStepperMaxSpeed	KEYWORD2
+setStepperAcceleration	KEYWORD2
+setStepperCurrentPosition	KEYWORD2
+setStepperHoldTorque	KEYWORD2
+
+setIICSlaveAddr	KEYWORD2
+reset	KEYWORD2
+getFWVer	KEYWORD2
+##############################################
+# Constants (LITERAL1)
+##############################################
+Slave_Addr	LITERAL1
+ENABLE	LITERAL1
+DISABLE	LITERAL1
+FULL_STEP	LITERAL1
+HALF_STEP	LITERAL1
+MICRO_STEP	LITERAL1
+CW	LITERAL1
+CCW	LITERAL1
+DRV1	LITERAL1
+DRV2	LITERAL1
+DRV3	LITERAL1
+DRV4	LITERAL1
+M1	LITERAL1
+M2	LITERAL1
+M3	LITERAL1
+M4	LITERAL1
+STEP1	LITERAL1
+STEP2	LITERAL1
+DCMotor	LITERAL1
+StepMotor	LITERAL1
